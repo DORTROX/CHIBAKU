@@ -1,4 +1,4 @@
-import os, sys, string, random,  time
+import os, sys, random,  time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from runs.prov import APIProvider
 
@@ -44,8 +44,6 @@ def realTprint(target, Success, failed):
     message += f"Sent            : {requested}\n"
     message += f"Successful      : {Success}\n"
     message += f"Failed          : {failed}\n\n"
-    message += "Created for flexing\n"
-    message += "Chibaku was created by DORTROX"
     print(message)
 
 

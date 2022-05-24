@@ -14,8 +14,7 @@ class APIProvider:
         self.lock = threading.Lock()
         APIProvider.delay = delay
         providers = PROVIDERS.get("sms", {})
-        APIProvider.api_providers = providers.get("91", [])
-        APIProvider.api_providers += providers.get("multi", [])
+        APIProvider.api_providers = providers.get("multi", [])
 
     def format(self):
         config_dump = json.dumps(self.config)
