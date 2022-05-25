@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/78467470/168476573-b0df52f2-c02b-4c41-abc2-46764bc7375c.png" width="100"/>
   <h1>CHIBAKU</h1><h2>A Sms Bomber written in Python</h2>
 
-  <img src="https://c.tenor.com/RlLrwGJl5T4AAAAC/chibaku-tensei-sasuke-uchiha.gif" width=70%/>
+![chibaku-tensei-sasuke-uchiha](https://user-images.githubusercontent.com/78467470/170184161-b85e7132-cb58-4f40-abf9-3568433e8232.gif)
 
   `D O R T R O 乂#5516`
 
