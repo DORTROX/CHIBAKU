@@ -13,7 +13,7 @@
 
 ![Screenshot from 2022-05-24 15-19-45](https://user-images.githubusercontent.com/78467470/170058605-3290c031-87f1-41a0-b358-55b2c8eb0755.png)
 * Chibaku was created with [TBomb](https://github.com/TheSpeedX/TBomb) and some of my little tweaks
-* Specifically created it to integrate it my [Esdeath](https://github.com/DORTROX/ESDEATH)
+* Specifically created it to integrate it with my [Esdeath](https://github.com/DORTROX/ESDEATH)
 * Right now it only works for +44. Because i removed the **Country Codes(cc) feature**
 
 <h1>Installation</h1>
